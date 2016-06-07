@@ -1,0 +1,32 @@
+.title
+{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+
+.description
+{
+    color:darkgray;
+    font-size: 30px;
+    border-left: double;
+    padding: 20px;
+    background-color: cornflowerblue;
+}
+
+.image {
+    width: 200px;
+    position: relative;
+    left: 20px;
+}
+
+.chart {
+    width: 100px;
+    height: 100px;
+}
+
+.circ1 {
+    stroke: green;
+    fill: white;
+    stroke-width: 5;
+}
